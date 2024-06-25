@@ -2,16 +2,28 @@
 
 ## TABLE OF CONTENTS
 
-🟢[About Me](#aboutme)
-🔵[Courses](#courses)
-🟣[Tools](#tools)
-🔴[Tech Skills](#tech-skills) 
-🟠[Soft Skills](#soft-skills)
-🟡[Projects](#projects)
+🔎 [About Me](#aboutme)<br>
+📖 [Courses](#courses)<br>
+🛠️ [Tools](#tools)<br>
+💻 [Tech Skills](#tech-skills)<br>
+🗣️ [Soft Skills](#soft-skills)<br>
+🏗️ [Projects](#projects)<br>
 
 ## <a name="aboutme">🔎About Me</a>
 
-I'm a software tester with almost two years of experience. From the beginning of my journey as a tester I'm associated with one of the biggest pharmaceutical warehouse in Central Europe - DOZ Direct. I'm responsible for testing frontend, backend and mobile apps used in a warehouse and DOZ Pharmacies. My daily responsibilities consist of working with team of bussiness analysts, developers and other testers, reporting defects, making documentation such as test scenarios and test confirmations and analyzing functional specifications.
+I'm a software tester with almost two years of experience. From the beginning of my journey as a tester I'm associated with one of the biggest pharmaceutical warehouse in Central Europe - DOZ Direct. I'm responsible for testing frontend, backend and mobile apps used in a warehouse and DOZ Pharmacies. My daily responsibilities consist of working with team of bussiness analysts, developers and other testers, reporting defects, making documentation such as test scenarios and test confirmations and analyzing functional specifications.<br>
+
+In 2021 I graduated with a master's degree as Dental Technician. That studies was combined between Medical University Of Lodz and Lodz University Of Technology. I never felt connected with that proffesion so in 2022 I decided to change industries and reskill myself to IT.<br>
+
+I worked a few months in Help Desk where I developed 
+
+
+
+
+
+
+### <p align="center"><a href="https://www.linkedin.com/in/aleksander-polikowski-308736228/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p><br>
+
 
 ## <a name="courses">📖Courses</a>
 ISTQB® Certified Tester Foundation Level - No20471/CTFL/2023 
