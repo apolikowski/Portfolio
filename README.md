@@ -70,4 +70,4 @@ ISTQB® Certified Tester Foundation Level - No20471/CTFL/2023
 
 - DOZ Direct oryginal solution for complaints and returns system - main tester / scrum methodology
 - Maintenance tasks testing and makeing documentation
-- 
+<!-- Automatyzacja frontendu, osobne projekty dla Selenium, Playwright, WebdriverIO, Appium
