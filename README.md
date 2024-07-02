@@ -23,7 +23,7 @@ In my current company I implemented a few of my ideas for optimization:
 
 <!--- In 2021 I graduated with a master's degree as Dental Technician. That studies was combined between Medical University Of Lodz and Lodz University Of Technology. I never felt connected with that proffesion so in 2022 I decided to change industries and reskill myself to IT.<br> --->
 
-### <p align="center"><a href="https://www.linkedin.com/in/aleksander-polikowski-308736228/" target="_blank">🔗 Visit my <b>LinkedIn</b> profile</a> 🔗</p><br>
+### <p align="center"><a href="https://www.linkedin.com/in/aleksander-polikowski-308736228/" target="_blank">➡️ Visit my <b>LinkedIn</b> profile</a> ⬅️</p><br>
 
 
 ## <a name="courses">📖Courses</a>
