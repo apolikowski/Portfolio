@@ -35,14 +35,16 @@ ISTQB® Certified Tester Foundation Level - No20471/CTFL/2023
 - Confluence
 - PyCharm
 - Android Studio
+- GitHub
+- Excel
 - CMD
 
 ## <a name="tech-skills">💻Tech Skills</a>
 
-- 
 - SQL
 - Python
 - Selenium / SeleniumBase
+- Appium
 - Robot Framework
 - API testing
 - Scrum
@@ -62,4 +64,5 @@ ISTQB® Certified Tester Foundation Level - No20471/CTFL/2023
 ## <a name="projects">🏗️Projects</a>
 
 - DOZ Direct oryginal solution for complaints and returns system - main tester / scrum methodology
-- Maintenance tasks testing
+- Maintenance tasks testing and makeing documentation
+- 
