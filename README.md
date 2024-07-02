@@ -19,7 +19,7 @@ I was responsible for supervising my team defects statuses and during my menager
 In my current company I implemented a few of my ideas for optimization:
 - Started makeing automated frontend regression tests as first person in the team 
 - Creating some of the automations for creating a testing data used in manual testing
-- Creating shared repo for screenshots used in test confirmations, when someone is absent in work someoneelse can finish documentation required for deployment<br>.
+- Creating shared repo for screenshots used in test confirmations, when someone is absent in work someoneelse can finish documentation required for deployment.<br>
 
 <!--- In 2021 I graduated with a master's degree as Dental Technician. That studies was combined between Medical University Of Lodz and Lodz University Of Technology. I never felt connected with that proffesion so in 2022 I decided to change industries and reskill myself to IT.<br> --->
 
