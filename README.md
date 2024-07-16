@@ -11,7 +11,7 @@
 
 ## <a name="aboutme">🔎About Me</a>
 
-I'm a software tester with almost two years of experience. From the beginning of my journey as a tester I'm associated with one of the biggest pharmaceutical warehouse in Central Europe - DOZ Direct. I'm responsible for testing frontend, backend and mobile apps used in a warehouse and Pharmacies. My daily responsibilities consist of working with team of bussiness analysts, developers and other testers, reporting defects, analyzing functional specifications and making documentation such as test scenarios and test confirmations.<br>
+I'm a software tester with almost two years of experience. From the beginning of my journey as a tester I'm associated with one of the biggest pharmaceutical warehouse in Central Europe - DOZ Direct. I'm responsible for testing frontend, backend and mobile apps used in a warehouse and Pharmacies. I have solid foundation in manual testing of web, desktop and mobile applications. My daily responsibilities consist of working with team of bussiness analysts, developers and other testers, reporting defects, analyzing functional specifications and making documentation such as test scenarios and test confirmations.<br>
 
 In my current position I quickly gained trust of my supervisors as a person that can handle difficulties and solve daily problems. I was appreciated and received some of the responsibilities of my menager.
 I was responsible for supervising my team defects statuses and during my menager absentcy I supervised implementations and deployments on production.<br>
@@ -46,6 +46,7 @@ ISTQB® Certified Tester Foundation Level - No20471/CTFL/2023
 
 ## <a name="tech-skills">💻Tech Skills</a>
 
+- Manual testing
 - SQL
 - Python
 - Selenium / SeleniumBase
