@@ -1,4 +1,3 @@
-# from selenium import webdriver
 from seleniumpagefactory.Pagefactory import PageFactory
 
 
@@ -19,9 +18,6 @@ class Homepage(PageFactory):
 
     def click_let_me_hack_btn(self):
         self.let_me_hack_btn.click()
-
-    def finding_element(self):
-        self.book_this_room_btn.get_web_element()
 
     def click_book_this_room_btn(self):
         self.book_this_room_btn.click()

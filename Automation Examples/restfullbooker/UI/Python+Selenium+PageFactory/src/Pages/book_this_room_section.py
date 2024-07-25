@@ -1,4 +1,3 @@
-from selenium import webdriver
 from seleniumpagefactory.Pagefactory import PageFactory
 
 
