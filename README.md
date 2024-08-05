@@ -35,14 +35,16 @@ ISTQB® Certified Tester Foundation Level - No20471/CTFL/2023
 ## <a name="tools">🛠️Tools</a>
 
 - SQLDeveloper / DBeaver
-- Postman
 - Jira
 - Confluence
+- Postman
 - PyCharm
 - Android Studio
 - GitHub
+- Jmeter
 - Excel
 - CMD
+
 
 ## <a name="tech-skills">💻Tech Skills</a>
 
@@ -53,8 +55,8 @@ ISTQB® Certified Tester Foundation Level - No20471/CTFL/2023
 - Appium
 - Robot Framework
 - API testing
-- Scrum
-- Jmeter
+- Scrum and Waterfall methodologies
+
 
 ## <a name="soft-skills">🗣️Soft Skills</a>
 
